@@ -8,7 +8,7 @@ const PopularMeals = () => {
   return (
     <Fragment>
       <section className={classes["section-2"]}>
-        <h1 className={classes["section-heading"]}>popular meals</h1>
+        <h1 className="section-heading">popular meals</h1>
         <div className={classes["cards-container"]}>
           <div className={classes.card}>
             <img src={Fish} className={classes["card-img"]} />

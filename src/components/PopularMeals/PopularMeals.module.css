@@ -8,16 +8,6 @@
   padding: 10rem 0;
 }
 
-.section-heading {
-  font-size: 12rem;
-  font-weight: 900;
-  color: #fff;
-  text-align: center;
-  text-transform: capitalize;
-  letter-spacing: 0.5rem;
-  text-shadow: 0.3rem 0.3rem 0.3rem #000;
-}
-
 .cards-container {
   display: flex;
   justify-content: space-evenly;
