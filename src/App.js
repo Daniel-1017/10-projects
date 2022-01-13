@@ -1,4 +1,5 @@
 import React, { Fragment } from "react";
+import Footer from "./components/Footer/Footer";
 import Gallery from "./components/Gallery/Gallery";
 import Navbar from "./components/Navbar/Navbar";
 import PopularMeals from "./components/PopularMeals/PopularMeals";
@@ -9,6 +10,7 @@ const App = () => {
       <Navbar />
       <PopularMeals />
       <Gallery />
+      <Footer />
     </Fragment>
   );
 };
